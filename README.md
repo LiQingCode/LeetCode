@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-08-14 16:05:21
+ * @LastEditTime: 2024-08-14 16:55:35
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -27,3 +27,4 @@
 |56|[合并区间](C++/merge.cpp)|中等|29ms/39.21%|22.52MB/27.79%|C++|
 |238|[除自身以外数组的乘积](C++/productExceptSelf.cpp)|中等|26ms/75.38%|39.42MB/23.45%|C++|
 |55|[跳跃游戏](C++/canJump.cpp)|中等|70ms/11.55%|49.83MB/41.21%|C++|
+|45|[跳跃游戏Ⅱ](C++/jump.cpp)|中等|112ms/7.26%|19.39MB/7.69%|C++|
