@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-08-14 16:55:35
+ * @LastEditTime: 2024-08-15 09:58:40
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -19,6 +19,7 @@
 |676|[实现一个魔法字典](C++/MagicDictionary.cpp)|中等|27ms/90.22%|21.98MB/82.22%|C++|
 |3151|[特殊数组Ⅰ](C++/isArraySpecial.cpp)|简单|0ms/100.00%|26.39MB/7.63%|C++|
 |3152|[特殊数组Ⅱ](C++/isArraySpecial_plus.cpp)|中等|203ms/57.58%|123.21MB/40.46%|C++|
+|3148|[矩阵中的最大得分](C++/maxScore.cpp)|中等|150ms/48.47%|61.59MB/13.22%|C++|
 
 ## Leetcode热题100
 
