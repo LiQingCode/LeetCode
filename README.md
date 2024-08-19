@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-08-15 09:58:40
+ * @LastEditTime: 2024-08-19 10:08:32
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -20,6 +20,9 @@
 |3151|[特殊数组Ⅰ](C++/isArraySpecial.cpp)|简单|0ms/100.00%|26.39MB/7.63%|C++|
 |3152|[特殊数组Ⅱ](C++/isArraySpecial_plus.cpp)|中等|203ms/57.58%|123.21MB/40.46%|C++|
 |3148|[矩阵中的最大得分](C++/maxScore.cpp)|中等|150ms/48.47%|61.59MB/13.22%|C++|
+|3137|[K周期字符串需要的最少操作次数](C++/minimumOperationsToMakeKPeriodic.cpp)|中等|119ms/27.23%|31.07MB/5.00%|C++|
+|551|[学生出勤记录Ⅰ](C++/checkRecord.cpp)|中等|3ms/42.08%|7.54MB/41.38%|C++|
+|552|[学生出勤记录Ⅱ](C++/checkRecord2.cpp)|困难|1177ms/14.55%|377.96MB/19.25%|C++|
 
 ## Leetcode热题100
 
