@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-08-21 10:54:57
+ * @LastEditTime: 2024-08-26 09:54:16
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -24,7 +24,7 @@
 |551|[学生出勤记录Ⅰ](C++/checkRecord.cpp)|中等|3ms/42.08%|7.54MB/41.38%|C++|
 |552|[学生出勤记录Ⅱ](C++/checkRecord2.cpp)|困难|1177ms/14.55%|377.96MB/19.25%|C++|
 |3007|[价值和小于等于K的最大数字](C++/findMaximumNumber3007.cpp)|中等|超时 :sob: |超时 :sob: |C++|
-
+|690|[员工的重要性](C++/getImportance.cpp)|中等|298ms/5.00%|95.6MB/5.00%|C++|
 ## Leetcode热题100
 
 |No|Question|difficulty|time|memory|language|
