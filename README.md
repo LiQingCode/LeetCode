@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-08-27 09:59:58
+ * @LastEditTime: 2024-08-27 13:59:07
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -34,3 +34,4 @@
 |238|[除自身以外数组的乘积](C++/productExceptSelf.cpp)|中等|26ms/75.38%|39.42MB/23.45%|C++|
 |55|[跳跃游戏](C++/canJump.cpp)|中等|70ms/11.55%|49.83MB/41.21%|C++|
 |45|[跳跃游戏Ⅱ](C++/jump.cpp)|中等|112ms/7.26%|19.39MB/7.69%|C++|
+|41|[缺失的第一个正数](C++/firstMissingPositive.cpp)|困难|82ms/7.26%|53.54MB/22.30%|C++|
