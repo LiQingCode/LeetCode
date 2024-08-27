@@ -37,3 +37,4 @@
 |41|[缺失的第一个正数](C++/firstMissingPositive.cpp)|困难|82ms/7.26%|53.54MB/22.30%|C++|
 |73|[矩阵置零](C++/setZeroes.cpp)|中等|10ms/64.99%|16.97MB/5.09%|C++|
 |54|[螺旋矩阵](C++/spiralOrder.cpp)|中等|0ms/100.00% :star: |8.19MB/49.17%|C++|
+|48|[旋转图像](C++/rotate.cpp)|中等|5ms/11.6%|8.87MB/6.22%|C++|
