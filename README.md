@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-08-27 15:09:55
+ * @LastEditTime: 2024-08-29 08:47:26
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -26,6 +26,7 @@
 |3007|[价值和小于等于K的最大数字](C++/findMaximumNumber3007.cpp)|中等|超时 :sob: |超时 :sob: |C++|
 |690|[员工的重要性](C++/getImportance.cpp)|中等|298ms/5.00%|95.6MB/5.00%|C++|
 |3134|[找出唯一性数组的中位数](C++/medianOfUniquenessArray.cpp)|困难|超时 :sob: |超时 :sob: |C++|
+|3142|[判断矩阵是否满足条件](C++/satisfiesConditions.cpp)|简单|3ms/99.17%|28.30MB/7.50%|C++|
 ## Leetcode热题100
 
 |No|Question|difficulty|time|memory|language|
