@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-08-29 09:33:37
+ * @LastEditTime: 2024-08-29 10:38:00
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -40,3 +40,4 @@
 |54|[螺旋矩阵](C++/spiralOrder.cpp)|中等|0ms/100.00% :star: |8.19MB/49.17%|C++|
 |48|[旋转图像](C++/rotate.cpp)|中等|5ms/11.6%|8.87MB/6.22%|C++|
 |142|[环形链表Ⅱ](C++/detectCycle.cpp)|中等|11ms/30.30%|13.04MB/12.77%|C++|
+|2|[两数相加](C++/addTwoNumbers.cpp)|中等|24ms/61.35%|75.78MB/12.82%|C++|
