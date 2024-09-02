@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-09-02 08:42:38
+ * @LastEditTime: 2024-09-02 08:44:29
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -45,6 +45,6 @@
 |279|[完全平方数](C++/numSquares.cpp)|中等|43ms/77.73%|11.01MB/18.76%|C++|
 
 ## 周赛
-|No|Question|difficulty|time|memory|language|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|3275|[第K近障碍物查询](C++/resultsArray.cpp)|中等|651ms/100.00% :star: |246.04MB/100.00% :star: |C++|
+|Week No.|No|Question|difficulty|time|memory|language|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|413|3275|[第K近障碍物查询](C++/resultsArray.cpp)|中等|651ms/100.00% :star: |246.04MB/100.00% :star: |C++|
