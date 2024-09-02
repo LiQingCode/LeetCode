@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-08-30 15:13:54
+ * @LastEditTime: 2024-09-02 08:42:38
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -43,3 +43,8 @@
 |142|[环形链表Ⅱ](C++/detectCycle.cpp)|中等|11ms/30.30%|13.04MB/12.77%|C++|
 |2|[两数相加](C++/addTwoNumbers.cpp)|中等|24ms/61.35%|75.78MB/12.82%|C++|
 |279|[完全平方数](C++/numSquares.cpp)|中等|43ms/77.73%|11.01MB/18.76%|C++|
+
+## 周赛
+|No|Question|difficulty|time|memory|language|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|3275|[第K近障碍物查询](C++/resultsArray.cpp)|中等|651ms/100.00% :star: |246.04MB/100.00% :star: |C++|
