@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-09-03 09:31:45
+ * @LastEditTime: 2024-09-04 09:34:38
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -29,6 +29,7 @@
 |3142|[判断矩阵是否满足条件](C++/satisfiesConditions.cpp)|简单|3ms/99.17%|28.30MB/7.50%|C++|
 |3153|[所有数对中位数不同之和](C++/sumDigitDifferences.cpp)|中等|142ms/31.53%|110.99MB/31.15%|C++|
 |2708|[一个小组的最大实力值](C++/maxStrength.cpp)|中等|8ms/86.09%|50.59MB/52.17%|C++|
+|2860|[让所有学生保持开心的分组方法数](C++/countWays.cpp)|中等|97ms/14.55%|77.31MB/5.45%|C++|
 ## Leetcode热题100
 
 |No|Question|difficulty|time|memory|language|
