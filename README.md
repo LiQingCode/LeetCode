@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-09-05 09:06:10
+ * @LastEditTime: 2024-09-09 09:11:19
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -31,6 +31,7 @@
 |2708|[一个小组的最大实力值](C++/maxStrength.cpp)|中等|8ms/86.09%|50.59MB/52.17%|C++|
 |2860|[让所有学生保持开心的分组方法数](C++/countWays.cpp)|中等|97ms/14.55%|77.31MB/5.45%|C++|
 |3174|[清除数字](C++/clearDigits.cpp)|简单|0ms/100.00% :star: |7.73MB/52.75%|C++|
+|2181|[合并零之间的节点](C++/mergeNodes.cpp)|中等|481ms/72.83%|252.00MB/78.00%|C++|
 ## Leetcode热题100
 
 |No|Question|difficulty|time|memory|language|
