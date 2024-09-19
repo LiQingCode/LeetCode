@@ -34,6 +34,8 @@
 |2181|[合并零之间的节点](C++/mergeNodes.cpp)|中等|481ms/72.83%|252.00MB/78.00%|C++|
 |2576|[求出最多标记下标](C++/maxNumOfMarkedIndices.cpp)|中等|110ms/91.40%|62.46MB/47.04%|C++|
 |2390|[从字符串中移除星号](C++/removeStars.cpp)|中等|76ms/87.00%|25.78MB/92.09%|C++|
+|2414|[最长的字母序连续子字符串的长度](C++/longestContinuousSubstring.cpp)|中等|46ms/26.32%|24.74MB/12.78%|C++|
+
 ## Leetcode热题100
 
 |No|Question|difficulty|time|memory|language|
