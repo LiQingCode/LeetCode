@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-09-14 08:44:20
+ * @LastEditTime: 2024-09-23 09:13:58
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -35,6 +35,7 @@
 |2576|[求出最多标记下标](C++/maxNumOfMarkedIndices.cpp)|中等|110ms/91.40%|62.46MB/47.04%|C++|
 |2390|[从字符串中移除星号](C++/removeStars.cpp)|中等|76ms/87.00%|25.78MB/92.09%|C++|
 |2414|[最长的字母序连续子字符串的长度](C++/longestContinuousSubstring.cpp)|中等|46ms/26.32%|24.74MB/12.78%|C++|
+|1014|[最佳观光组合](C++/maxScoreSightseeingPair.cpp)|中等|37ms/66.33%|42.39MB/59.75%|C++|
 
 ## Leetcode热题100
 
