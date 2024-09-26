@@ -37,6 +37,7 @@
 |2414|[最长的字母序连续子字符串的长度](C++/longestContinuousSubstring.cpp)|中等|46ms/26.32%|24.74MB/12.78%|C++|
 |1014|[最佳观光组合](C++/maxScoreSightseeingPair.cpp)|中等|37ms/66.33%|42.39MB/59.75%|C++|
 |2207|[字符串中最多数目的子序列](C++/maximumSubsequenceCount.cpp)|中等|48ms/66.13%|20.95MB/19.36%|C++|
+|2535|[数组元素和与数字和的绝对差](C++/differenceOfSum.cpp)|简单|8ms/79.42%|18.01MB/60.93%|C++|
 
 ## Leetcode热题100
 
