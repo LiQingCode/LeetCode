@@ -39,7 +39,7 @@
 |2207|[字符串中最多数目的子序列](C++/maximumSubsequenceCount.cpp)|中等|48ms/66.13%|20.95MB/19.36%|C++|
 |2535|[数组元素和与数字和的绝对差](C++/differenceOfSum.cpp)|简单|8ms/79.42%|18.01MB/60.93%|C++|
 |2073|[买票需要的时间](C++/timeRequiredToBuy.cpp)|简单|2ms/57.40%|9.53MB/25.11%|C++|
-|2073|[座位预约管理系统](C++/SeatManager.cpp)|中等|296ms/92.82%|143.30MB/99.04%|C++|
+|1845|[座位预约管理系统](C++/SeatManager.cpp)|中等|296ms/92.82%|143.30MB/99.04%|C++|
 
 ## Leetcode热题100
 
