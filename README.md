@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-09-30 09:14:30
+ * @LastEditTime: 2024-10-08 08:46:20
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -40,6 +40,7 @@
 |2535|[数组元素和与数字和的绝对差](C++/differenceOfSum.cpp)|简单|8ms/79.42%|18.01MB/60.93%|C++|
 |2073|[买票需要的时间](C++/timeRequiredToBuy.cpp)|简单|2ms/57.40%|9.53MB/25.11%|C++|
 |1845|[座位预约管理系统](C++/SeatManager.cpp)|中等|296ms/92.82%|143.30MB/99.04%|C++|
+|1436|[旅行终点站](C++/destCity.cpp)|简单|13ms/35.95%|15.02MB/19.01%|C++|
 
 ## Leetcode热题100
 
