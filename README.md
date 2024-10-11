@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-10-10 08:52:34
+ * @LastEditTime: 2024-10-11 08:59:38
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -42,6 +42,7 @@
 |1845|[座位预约管理系统](C++/SeatManager.cpp)|中等|296ms/92.82%|143.30MB/99.04%|C++|
 |1436|[旅行终点站](C++/destCity.cpp)|简单|13ms/35.95%|15.02MB/19.01%|C++|
 |3162|[优质数对的总数Ⅰ](C++/numberOfPairs.cpp)|简单|11ms/53.56%|40.99MB/15.25%|C++|
+|3164|[优质数对的总数Ⅱ](C++/numberOfPairs2.cpp)|中等|367ms/81.37%|172.01MB/39.17%|C++|
 
 ## Leetcode热题100
 
