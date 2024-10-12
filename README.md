@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-10-11 08:59:38
+ * @LastEditTime: 2024-10-12 08:42:14
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -43,6 +43,7 @@
 |1436|[旅行终点站](C++/destCity.cpp)|简单|13ms/35.95%|15.02MB/19.01%|C++|
 |3162|[优质数对的总数Ⅰ](C++/numberOfPairs.cpp)|简单|11ms/53.56%|40.99MB/15.25%|C++|
 |3164|[优质数对的总数Ⅱ](C++/numberOfPairs2.cpp)|中等|367ms/81.37%|172.01MB/39.17%|C++|
+|3158|[求出出现两次数字的异或值](C++/duplicateNumbersXOR.cpp)|简单|3ms/91.68%|26.38MB/36.17%|C++|
 
 ## Leetcode热题100
 
