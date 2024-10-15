@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-10-12 08:42:14
+ * @LastEditTime: 2024-10-15 08:52:13
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -44,6 +44,7 @@
 |3162|[优质数对的总数Ⅰ](C++/numberOfPairs.cpp)|简单|11ms/53.56%|40.99MB/15.25%|C++|
 |3164|[优质数对的总数Ⅱ](C++/numberOfPairs2.cpp)|中等|367ms/81.37%|172.01MB/39.17%|C++|
 |3158|[求出出现两次数字的异或值](C++/duplicateNumbersXOR.cpp)|简单|3ms/91.68%|26.38MB/36.17%|C++|
+|3200|[三角形的最大高度](C++/maxHeightOfTriangle.cpp)|简单|3ms/39.66%|8.13MB/38.44%|C++|
 
 ## Leetcode热题100
 
