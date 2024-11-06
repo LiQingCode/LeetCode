@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-10-16 08:41:29
+ * @LastEditTime: 2024-11-06 16:48:53
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -46,6 +46,7 @@
 |3158|[求出出现两次数字的异或值](C++/duplicateNumbersXOR.cpp)|简单|3ms/91.68%|26.38MB/36.17%|C++|
 |3200|[三角形的最大高度](C++/maxHeightOfTriangle.cpp)|简单|3ms/39.66%|8.13MB/38.44%|C++|
 |3194|[最小元素和最大元素的最小平均值](C++/minimumAverage.cpp)|简单|10ms/28.74%|24.68MB/54.16%|C++|
+|3254|[长度为k的子数组的能量值Ⅰ](C++/resultsArray2.cpp)|中等|0ms/100.00% :star: |32.70MB/21.58%|C++|
 
 ## Leetcode热题100
 
