@@ -2,7 +2,7 @@
  * @Author: LiQingCode 2535735432@qq.com
  * @Date: 2024-08-08 15:06:32
  * @LastEditors: LiQingCode 2535735432@qq.com
- * @LastEditTime: 2024-11-06 16:48:53
+ * @LastEditTime: 2024-11-21 09:38:26
  * @FilePath: \code\LeetCode\README.md
  * @Description: 
  * 
@@ -47,6 +47,8 @@
 |3200|[三角形的最大高度](C++/maxHeightOfTriangle.cpp)|简单|3ms/39.66%|8.13MB/38.44%|C++|
 |3194|[最小元素和最大元素的最小平均值](C++/minimumAverage.cpp)|简单|10ms/28.74%|24.68MB/54.16%|C++|
 |3254|[长度为k的子数组的能量值Ⅰ](C++/resultsArray2.cpp)|中等|0ms/100.00% :star: |32.70MB/21.58%|C++|
+|3304|[找出第K个字符Ⅰ](C++/kthCharacter1.cpp)|简单|0ms/100.00% :star: |7.34MB/84.50%|C++|
+|3307|[找出第K个字符Ⅱ](C++/kthCharacter2.cpp)|困难|0ms/100.00% :star: |27.13MB/27.20%|C++|
 
 ## Leetcode热题100
 
